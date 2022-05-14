@@ -1,4 +1,4 @@
 # Emojilerle Sarki Bulmaca
 
  
-#### Open assets Size: 60
+#### Open assets size: 60
